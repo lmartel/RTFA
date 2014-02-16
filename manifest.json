@@ -3,7 +3,8 @@
   "version": "1.0",
   "description": "Read the effing article! RTFA prevents reading the comments before the article on HackerNews and Reddit.",
   "background": {
-    "scripts": ["background.js"]
+    "scripts": ["background.js"],
+    "persistent": false
   },
   "permissions": [
     "storage",
