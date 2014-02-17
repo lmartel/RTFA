@@ -20,5 +20,5 @@ Who?
 
 Where?
 ------
-TODO: link to webstore
+Get it from the [Google webstore](https://chrome.google.com/webstore/detail/read-the-effing-article/angdimfeecdnooacbnnppmlbobcnpbln).
 
